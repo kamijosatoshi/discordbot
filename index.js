@@ -1,6 +1,7 @@
 // Discord bot implements
 const discord = require('discord.js');
 const client = new discord.Client();
+const token = 'MzU2MDgxNjQyNDQ5NjY2MDUw.XcU99g.DB5iGzNlouh4pOHKYt4bJcH2Q_k'
 
 client.on('ready', message =>
 {
